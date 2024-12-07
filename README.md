@@ -2,6 +2,8 @@
 
 A simple web-based tool to translate i18next JSON resource files using the Google Cloud Translation API.
 
+### [Live Demo](https://i18translate.asadk.dev/)
+
 ## Features
 
 - Translate complete i18next JSON files while preserving structure
